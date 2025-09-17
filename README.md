@@ -45,16 +45,7 @@ Clean CRUD + analytics for university project (Node.js, Express, MySQL).
 Simplex solver + tableau generation (React + FastAPI).  
 👉 [Repo](REPO_LINK) • [Live/Video](LIVE_OR_DEMO_LINK)
 
-**Project 3 — CEHTRA Comms Toolkit**  
-Reusable Canva/PPT templates + LinkedIn post system.  
-👉 [Case study/Repo](LINK)
 
----
-
-### 📊 Quick stats
-<a href="https://github.com/mehdika21">
-  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=mehdika21&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=Stats&hide=contribs&card_width=400" />
-</a>
 
 ---
 
