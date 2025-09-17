@@ -2,24 +2,21 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img alt="YOUR NAME — short tagline" src="assets/banner-light.png">
+   
   </picture>
 </p>
 
 <h1 align="center">Hi, I'm Mehdi Kaidi 👋</h1>
 
-<p align="center">
-  Digital Marketing & Branding @ CEHTRA • CS Student • Building clean, reliable web apps
-</p>
 
 <p align="center">
-  <a href="LINKEDIN_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="PORTFOLIO_URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white"></a>
-  <a href="MAILTO:YOUR@EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-4A90E2?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mehdi-kaidi-a93383338/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://mehdika21.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?logo=vercel&logoColor=white"></a>
+  <a href="MAILTO:mehdikaidi60@gmail.comL"><img alt="Email" src="https://img.shields.io/badge/Email-4A90E2?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
-
+<!-- 
 ### 🚀 What I’m focusing on
 - **Marketing tech**: LinkedIn & email automation, SEO content systems  
 - **Web**: Node.js/Express, React, MySQL, REST APIs  
@@ -56,4 +53,4 @@ I’m open to marketing tech, dashboards, and UI polish.
 <!-- FOOTER NOTE -->
 <p align="center">
   <sub>Last updated: YYYY-MM-DD • Built with ❤️ and Markdown</sub>
-</p>
+</p> -->
