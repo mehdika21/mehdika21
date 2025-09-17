@@ -48,9 +48,9 @@ Simplex solver + tableau generation (React + FastAPI).
 
 ### 🤝 Let’s collaborate
 I’m open to marketing tech, dashboards, and UI polish.  
-**Email:** YOUR@EMAIL • **DM:** LinkedIn
+**Email:** YOUR@EMAIL • **DM:** LinkedIn -->
 
 <!-- FOOTER NOTE -->
-<p align="center">
+<!-- <p align="center">
   <sub>Last updated: YYYY-MM-DD • Built with ❤️ and Markdown</sub>
 </p> -->
