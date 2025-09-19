@@ -19,7 +19,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdika21&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-
+<h2>
+  <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
+</h2>
 <table>
   <!-- FRONTEND -->
   <tr>
