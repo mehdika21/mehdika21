@@ -15,6 +15,10 @@
   <a href="MAILTO:mehdikaidi60@gmail.comL"><img alt="Email" src="https://img.shields.io/badge/Email-4A90E2?logo=gmail&logoColor=white"></a>
 </p>
 
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdika21&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 ---
 <!-- 
 ### 🚀 What I’m focusing on
