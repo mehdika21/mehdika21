@@ -19,6 +19,58 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdika21&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
+<table>
+  <!-- FRONTEND -->
+  <tr>
+    <td colspan="6" align="center">
+      <strong>Frontend</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">HTML</td>
+    <td align="center" width="96">CSS</td>
+    <td align="center" width="96">JavaScript</td>
+    <td align="center" width="96">TypeScript</td>
+    <td align="center" width="96">React</td>
+    <td align="center" width="96">Angular.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="96">Tailwind CSS</td>
+    <td align="center" width="96">Bootstrap</td>
+    <td colspan="4"></td>
+  </tr>
+
+  <!-- BACKEND -->
+  <tr>
+    <td colspan="6" align="center" style="padding-top:20px;">
+      <strong>Backend</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">Node.js</td>
+    <td align="center" width="96">Express</td>
+    <td align="center" width="96">.NET</td>
+    <td align="center" width="96">MySQL</td>
+    <td colspan="2"></td>
+  </tr>
+
+  <!-- LANGUAGES -->
+  <tr>
+    <td colspan="6" align="center" style="padding-top:20px;">
+      <strong>Languages</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">C++</td>
+    <td align="center" width="96">C</td>
+    <td align="center" width="96">Java</td>
+    <td align="center" width="96">Python</td>
+    <td align="center" width="96">JavaScript</td>
+    <td align="center" width="96">PHP</td>
+  </tr>
+</table>
+
 ---
 <!-- 
 ### 🚀 What I’m focusing on
