@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+      <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
       <br>Tailwind CSS
     </td>
     <td align="center" width="96">
