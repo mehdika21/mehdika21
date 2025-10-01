@@ -94,6 +94,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MongoDb
+    </td>
     <td colspan="2"></td>
   </tr>
 
@@ -137,7 +141,7 @@
       <br>Flutter
     </td>
     
-  <td colspan="2"></td>
+  <td colspan="4"></td>
   </tr>
   <tr>
     <td colspan="6" align="center" style="padding-top:20px;">
