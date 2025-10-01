@@ -77,10 +77,7 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
+    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
       <br>Express
@@ -143,7 +140,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Node.js" />
       <br>Flutter
     </td>
-      <td align="center" width="96"></td>
+    
   <td colspan="2"></td>
   </tr>
   <tr>
@@ -155,11 +152,6 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="Node.js" />
       <br>Github
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Node.js" />
@@ -175,10 +167,6 @@
 <!-- 
 ### 🚀 What I’m focusing on
 - **Marketing tech**: LinkedIn & email automation, SEO content systems  
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
-      <td align="center" width="96"></td>
 - **Web**: Node.js/Express, React, MySQL, REST APIs  
 - **Data & viz**: dashboards, clean UX, measurable KPIs
 
