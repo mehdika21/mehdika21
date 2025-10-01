@@ -124,7 +124,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-
+    <td colspan="2"></td>
   </tr>
   <tr>
     <td colspan="6" align="center" style="padding-top:20px;">
@@ -137,7 +137,7 @@
       <br>Flutter
     </td>
     
-    <td colspan="2"></td>
+  <td colspan="2"></td>
   </tr>
   <tr>
     <td colspan="6" align="center" style="padding-top:20px;">
@@ -154,7 +154,7 @@
       <br>Docker
     </td>
     
-    <td colspan="2"></td>
+  <td colspan="2"></td>
   </tr>
 
 </table>
