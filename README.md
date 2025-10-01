@@ -141,7 +141,7 @@
       <br>Flutter
     </td>
     
-  <td colspan="4"></td>
+  <td colspan="2"></td>
   </tr>
   <tr>
     <td colspan="6" align="center" style="padding-top:20px;">
